@@ -17,4 +17,80 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+
+    <style name="Rango.Textview.Headline1" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:textColor">@color/grey_7e</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="Rango.Textview.Headline2" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="android:textColor">@color/grey_7e</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="Rango.Textview.Headline3" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+    <style name="Rango.Textview.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+    <style name="Rango.Textview.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+    <style name="Rango.Textview.Headline6" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+    <style name="Rango.Textview.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+    <style name="Rango.Textview.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="Rango.Textview.Body1.Bold" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+    <style name="Rango.Textview.Body1.Light" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="Rango.Textview.Body2.Black" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+    <style name="Rango.Textview.Body2.Lite" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="Rango.Textview.Button" parent="TextAppearance.MaterialComponents.Button">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+    <style name="Rango.Textview.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/grey_7e</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="Rango.Textview.Overline" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="android:textColor">@color/black_3e</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
 </resources>
