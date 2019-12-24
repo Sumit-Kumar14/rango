@@ -46,7 +46,9 @@
     <color name="black_3e">#3E3E52</color>
 
     <!--GREY-->
-    <color name="grey_7e">#7e7e8c</color>
+    <color name="grey_7e">#7F7F8C</color>
 
+    <!--WHITE-->
+    <color name="white_ff">#FFFFFF</color>
 
 </resources>
