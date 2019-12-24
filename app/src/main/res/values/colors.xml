@@ -3,4 +3,47 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <!--RED-->
+    <color name="red_a1">#A1131A</color>
+    <color name="red_cf">#CF212A</color>
+    <color name="red_e5">#E52A34</color>
+    <color name="red_ed">#ED646A</color>
+    <color name="red_fc">#FCE3E4</color>
+    
+    <!--GREEN-->
+    <color name="green_07">#0F752E</color>
+    <color name="green_1c">#1C9440</color>
+    <color name="green_38">#38B87C</color>
+    <color name="green_51">#51C273</color>
+    <color name="green_e1">#E1F7E8</color>
+
+    <!--BLUE-->
+    <color name="blue_11">#114D96</color>
+    <color name="blue_21">#216BC4</color>
+    <color name="blue_28">#388BF2</color>
+    <color name="blue_5b">#5BA0F5</color>
+    <color name="blue_db">#DBEBFF</color>
+
+    <!--ORANGE-->
+    <color name="orange_b8">#B85518</color>
+    <color name="orange_e6">#E6732C</color>
+    <color name="orange_fc">#FC8338</color>
+    <color name="orange_ff">#FF9A5C</color>
+    <color name="orange_ffe">#FFE7D9</color>
+
+    <!--YELLOW-->
+    <color name="yellow_c9">#C98C10</color>
+    <color name="yellow_e3">#E39E14</color>
+    <color name="yellow_fb">#FBAF18</color>
+    <color name="yellow_fc">#FCC047</color>
+    <color name="yellow_ff">#FFF0D1</color>
+
+    <!--BLACK-->
+    <color name="black_25">#25282B</color>
+    <color name="black_52">#52575C</color>
+    <color name="black_a0">#A0A4A8</color>
+    <color name="black_e8">#E8E8E8</color>
+    <color name="black_fa">#FAFAFA</color>
+
 </resources>
